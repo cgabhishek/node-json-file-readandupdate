@@ -1,0 +1,11 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node solution.js"
+  },
+  "dependencies": {
+    "jQuery": "^1.7.4",
+    "node-fetch": "^2.6.0"
+  }
+}
